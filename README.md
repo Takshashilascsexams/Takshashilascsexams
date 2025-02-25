@@ -1,10 +1,10 @@
 # ExamMaster 📝🎯  
 
-Welcome to **ExamMaster** 📚💡  
+Welcome to **Takshashila's Exam Portal** 📚💡  
 
-**ExamMaster** is a comprehensive and user-friendly **exam preparation and assessment** web platform. Designed to support students and educators, it simplifies exam management, practice tests, and performance tracking to ensure effective learning.  
+**Takshashila's Exam Portal** is a comprehensive and user-friendly **exam conducting and assessment** web platform. Designed to support students and educators, it simplifies exam management, practice tests, and performance tracking to ensure effective learning.  
 
-## Why ExamMaster?  
+## Why Takshashila's Exam Portal?  
 
 - 🏆 **Smart Exam Preparation** – Access a vast collection of quizzes and mock tests.  
 - 📖 **Structured Learning** – Organize subjects and topics for focused study.  
