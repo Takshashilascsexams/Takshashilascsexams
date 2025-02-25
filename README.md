@@ -1,4 +1,4 @@
-# ExamMaster 📝🎯  
+# Takshashila's Exam Portal 📝🎯  
 
 Welcome to **Takshashila's Exam Portal** 📚💡  
 
